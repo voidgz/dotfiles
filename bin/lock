@@ -1,0 +1,3 @@
+#!/bin/bash
+
+swaylock -i /usr/share/backgrounds/lockscreen.png
